@@ -66,5 +66,5 @@ The **Product type slicer** acts as the primary filter, letting users drill into
 
 ## Notes
 
-- This report has no bookmarks, additional pages, or DAX measures beyond simple `SUM()` aggregations applied directly to columns — all calculations are implicit measures created on the fly in the visuals.
+- This report has no bookmarks, additional pages, or DAX measures beyond simple `SUM()` aggregations applied directly to columns all calculations are implicit measures created on the fly in the visuals.
 - No row-level security or custom security bindings are configured.
