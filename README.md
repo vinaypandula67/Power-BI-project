@@ -1,10 +1,10 @@
 # Supply Chain Analytics Dashboard (Power BI)
 
-A single-page Power BI report that gives a quick visual overview of a company's supply chain performance — revenue, costs, shipping, and supplier metrics — built on one imported data table.
+A single-page Power BI report that gives a quick visual overview of a company's supply chain performance revenue, costs, shipping, and supplier metrics built on one imported data table.
 
 ## Overview
 
-This `.pbix` file contains one report page ("Page 1", 1280×720) backed by a single data table named **`supply_chain_data`**, imported directly (no relationships or additional tables — the model is a flat, single-table dataset). The report was authored in Power BI (report version 5.73, PBI Desktop-compatible schema version 1.28).
+This `.pbix` file contains one report page ("Page 1", 1280×720) backed by a single data table named **`supply_chain_data`**, imported directly (no relationships or additional tables the model is a flat, single-table dataset). The report was authored in Power BI (report version 5.73, PBI Desktop-compatible schema version 1.28).
 
 ## Data Model
 
